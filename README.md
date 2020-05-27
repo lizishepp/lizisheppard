@@ -25,4 +25,5 @@ Programming Proj 8 = DSC 609 (Machine Learning) Example of project examining K-M
 
 Final Project = DSC 609 (Machine Learning) Final project using machine learning techniques 
 
+Lindsay Sheppard_1560302_0.pdf = DSC 503 (Statistical Methods) Example of homework from textbook
 
