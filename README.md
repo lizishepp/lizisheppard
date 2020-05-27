@@ -15,7 +15,7 @@ Final Submission = Thesis/capstone project paper submitted May 2020 to Utica Col
 
 Literature Review = SOC 565 (Demography) Final Paper - Literature Review, Maternal Education and Child Mortality
 
-Project_Paper = DSC 611 (Data Visualization) Project Paper with Visualizations created by Lindsay (Lizi) Sheppard for Utica College
+Project_Paper = DSC 611 (Data Visualization) *to be updated*
 
 Prospectus = SOC 563 (Complex Organizations) Survey Prospectus (Final Project)
 
