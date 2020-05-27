@@ -1,4 +1,6 @@
 # lizisheppard
+
+*5/27/2020- will be updated with complete file names soon*
 UTICA MS Data Science Projects: 
 
 A/B Experimental Design = ECN 575 (Behavioral Economics) Design A/B experiment to increase motivation using social media/fitness app
