@@ -10,3 +10,5 @@ Prospectus = SOC 563 (Complex Organizations) Survey Prospectus (Final Project)
 Final Paper Soc 555 = SOC 555 (Community and Social Change) Final Paper - Comprehensive Plan for Clay County, FL (includes Tableau visualizations for census tract by Lizi Sheppard)
 
 Literature Review = SOC 565 (Demography) Final Paper - Literature Review, Maternal Education and Child Mortality
+
+Demography Reports = SOC 565 (Demography) Using InsightMaker or SPSS to examine data and trends
