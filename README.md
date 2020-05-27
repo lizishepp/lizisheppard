@@ -19,6 +19,8 @@ Prospectus = SOC 563 (Complex Organizations) Survey Prospectus (Final Project)
 
 Programming Project 1 = DSC 609 (Machine Learning) Example of project in Alteryx Designer (though class used Alteryx Designer and Jupyter Notebooks) 
 
+Programming Proj 8 = DSC 609 (Machine Learning) Example of project examining K-Means (weekly projects) using Alteryx, R Studio
 
+Final Project = DSC 609 (Machine Learning) Final project using machine learning techniques 
 
 
