@@ -17,7 +17,7 @@ Project_Paper = DSC 611 (Data Visualization) Project Paper with Visualizations c
 
 Prospectus = SOC 563 (Complex Organizations) Survey Prospectus (Final Project)
 
-Programming Project 1 = DSC 609 (Machine Learning) Example of project in Alteryx Designer
+Programming Project 1 = DSC 609 (Machine Learning) Example of project in Alteryx Designer (though class used Alteryx Designer and Jupyter Notebooks) 
 
 
 
